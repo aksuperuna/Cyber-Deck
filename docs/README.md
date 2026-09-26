@@ -3,7 +3,7 @@
 current features:
 raspberrypi 5, as the main computer
 
-raspberry touch screen, as a display:https://www.amazon.com/Hosyond-Touchscreen-Compatible-Capacitive-Driver-Free/dp/B0CXTFN8K9/ref=sr_1_4?dib=eyJ2IjoiMSJ9.N0uYc-0eJlf9_kVLCwyOsNPRur9l2sRvRTG8IIAIlqZNtetHzofFE2OeWURfzGY0Y_CPQ12GwsnmL-MdWrcWXRNIJ-LcXPdUqM_sY1J744ru-HBoK2tHZGiTkQHQjRn1WnTEnfIjE5lOFT_rx2H4akQH38ojdy5sWHY4GCdUCaKk_V_JkeNuCM0G5WO7VyI5wnJ8t9otTzYcfS147PlHxwYUvaL7iSYNtDGhhXmwuNI.G5GMCrKebCeTxlEnWsaXFfUEQ4vufxzAK9CXGMyoqng&dib_tag=se&keywords=raspberry%2Bpi%2B5%2Bscreen&qid=1789744397&sr=8-4&th=1
+raspberry touch screen, as a display:[screen](https://www.amazon.com/Hosyond-Touchscreen-Compatible-Capacitive-Driver-Free/dp/B0CXTFN8K9/ref=sr_1_4?dib=eyJ2IjoiMSJ9.N0uYc-0eJlf9_kVLCwyOsNPRur9l2sRvRTG8IIAIlqZNtetHzofFE2OeWURfzGY0Y_CPQ12GwsnmL-MdWrcWXRNIJ-LcXPdUqM_sY1J744ru-HBoK2tHZGiTkQHQjRn1WnTEnfIjE5lOFT_rx2H4akQH38ojdy5sWHY4GCdUCaKk_V_JkeNuCM0G5WO7VyI5wnJ8t9otTzYcfS147PlHxwYUvaL7iSYNtDGhhXmwuNI.G5GMCrKebCeTxlEnWsaXFfUEQ4vufxzAK9CXGMyoqng&dib_tag=se&keywords=raspberry%2Bpi%2B5%2Bscreen&qid=1789744397&sr=8-4&th=1)
 
 camera, as a webcam :https://nmrobots.com/products/micro-usb-camera           ,or any other small camera 
 
