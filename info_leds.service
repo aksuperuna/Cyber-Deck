@@ -1,0 +1,13 @@
+[Unit]
+Description=LED status lights
+After=network.target
+
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/bin/info_leds.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
