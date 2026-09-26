@@ -1,0 +1,2 @@
+status_internet=GPIO_14
+lid=GPIO_26
