@@ -1,2 +1,2 @@
 status_internet=GPIO_14
-lid=GPIO_26
+i2c_SDA=GPIO_3
